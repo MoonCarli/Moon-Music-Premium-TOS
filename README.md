@@ -9,7 +9,7 @@ By purchasing the premium service, you acknowledge and agree to the following te
 
 - **All payments are final and non-refundable** unless requested within 24 hours of purchase.  
 - **Refund requests are valid only within 24 hours** of the transaction and will only be considered for **valid reasons** (e.g., critical issues with the service not caused by the user).  
-- If a refund request is approved, **60% of the payment will be refunded** to account for service charges and transaction fees.
+- If a refund request is approved, **70% of the payment will be refunded** to account for service charges and transaction fees.
 - **Chargebacks** or disputes without valid reasoning may result in an immediate ban from the service.
 - **Billing**: Payments are processed via Patreon, and accepted payment methods include credit/debit cards, PayPal, and other payment providers supported by Patreon.
 
